@@ -6,3 +6,5 @@
 第四天的练习
 ### day5-exercise.zip
 第五天的练习
+
+<p><h6>现在还不太会用GitHub >_< </h6></p>
